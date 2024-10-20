@@ -6,7 +6,7 @@ white = (255,0,0)
 clock = pygame.time.Clock()
 
 display_surface = pygame.display.set_mode((500,500))
-pygame.display.set_caption("Image mao")
+pygame.display.set_caption("Image GOKU!!")
 
 image = pygame.image.load('Goku.jpeg')
 
