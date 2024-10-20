@@ -1,14 +1,14 @@
 import pygame
 
 pygame.init()
-white = (255,255,255)
+white = (255,0,0)
 
 clock = pygame.time.Clock()
 
 display_surface = pygame.display.set_mode((500,500))
 pygame.display.set_caption("Image mao")
 
-image = pygame.image.load('cat.jpeg')
+image = pygame.image.load('Goku.jpeg')
 
 DEFAULT_IMAGE_SIZE = (200,200)
 
